@@ -1,0 +1,11 @@
+// settings.json
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[blade]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.documentSelectors": [
+      "**/*.blade.php"
+    ]
+    // ...other settings
+  }
