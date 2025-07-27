@@ -1,6 +1,6 @@
 # <p align="center"> Pixels Positions</p>
 
-**Pixels Positions project from the [30 Days to Learn Laravel](https://www.youtube.com/playlist?list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz) course by **Laracasts** — one of the best course i have ever watched.
+**Pixels Positions** project from the [30 Days to Learn Laravel](https://www.youtube.com/playlist?list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz) course by **Laracasts** — one of the best course i have ever watched.
 This project puts into practice all the concepts covered throughout the course, including:
 
 - Models & Migrations
