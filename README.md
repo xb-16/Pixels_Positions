@@ -1,9 +1,7 @@
-# <center>Pixels Positions</center>
+# <p align="center"> Pixels Positions</p>
 
-**Pixels Positions** is the final project from the [30 Days to Learn Laravel](https://www.youtube.com/playlist?list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz) course by **Laracasts** — one of the best course i have ever watched.
+**Pixels Positions project from the [30 Days to Learn Laravel](https://www.youtube.com/playlist?list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz) course by **Laracasts** — one of the best course i have ever watched.
 This project puts into practice all the concepts covered throughout the course, including:
-
-<img src="ProjectPreview.png" alt="project previeww"/>
 
 - Models & Migrations
 - Controllers
@@ -17,6 +15,7 @@ This project puts into practice all the concepts covered throughout the course, 
 - Factories & Seeders
 
 ## Project Overview
+<div align="center" ><img src="ProjectPreview.png" alt="project previeww"/></div>
 
 **Pixels Positions** is a job board website that allows users to find and post job opportunities. It includes the following pages:
 
